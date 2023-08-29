@@ -1,0 +1,20 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width: 23px;
+    padding: 1%;
+    text-align: center;
+    }
+.navigation {
+    width: 73%;
+    padding: 1%;
+    }
+.heroImg {
+    padding: 1%;
+}
+.ul {
+    width: 50%;
+    margin-left: auto;
+}
