@@ -12,3 +12,12 @@
 .buttons {
     margin: 5px;
 }
+.myWork {
+    display: grid;
+    place-items: center;
+}
+.workGrid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+}
