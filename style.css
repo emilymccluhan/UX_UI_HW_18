@@ -3,6 +3,7 @@
     flex: 1;
     justify-content: space-between;
     align-items: center;
+    font-family: sans-serif;
 }
 .logo {
     width: 100px;
@@ -11,6 +12,16 @@
    }
 .buttons {
     margin: 5px;
+}
+.howdy {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+.welcome {
+    display: flex;
+    flex: 1;
+    justify-content: center;
 }
 img.pfp {
     width: 300px;
@@ -28,4 +39,36 @@ img.pfp {
 .ul {
     width: 50%;
     margin-left: auto;
+}
+.body {
+    font-family: sans-serif;
+}
+.content {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.abtButton {
+    width: 200px;
+    height: 50px;
+}
+.footer {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    align-items: baseline;
+    color: white;
+    background-color: black;
+}
+.buttonsFooter {
+    color: white;
+    background-color: black;
+}
+.goInBox {
+    width: 300px;
+    height: 300px;
+}
+.space {
+    height: 50px;
 }
